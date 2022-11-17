@@ -1,0 +1,26 @@
+#forma {
+    width: 310px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 25px;
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+table {
+    font-size: 18px;
+}
+
+
+#calculate_mog, #next_student {
+    margin-top: 15px;
+    background: #cecece;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    width: 100%;
+}
+
+.grade {
+    width: 100px;
+}
